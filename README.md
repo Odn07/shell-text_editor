@@ -1,0 +1,1 @@
+Texty is a text editor. When run it can create and save a text file on the command line. It does two things in one. It prompts user for file name and content and create both. It saves you from the trouble of having to open your text editor before creating a file. With texty you can create your text file on the command line.

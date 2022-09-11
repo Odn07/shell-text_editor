@@ -1,0 +1,5 @@
+#!/bin/bash
+read -p "Enter file name: " x
+read -p "Enter file content: " y 
+echo $y >> $x
+echo 'Your file is created. Welcome to "Doing hard things community!"'
