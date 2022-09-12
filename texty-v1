@@ -1,4 +1,5 @@
 #!/bin/bash
+date
 
 #Get file name from user and store in variable x.
 read -p "Enter file name: " x
