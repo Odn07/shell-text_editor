@@ -9,7 +9,7 @@ read -p "Enter file content: " y
 
 #Create a file with the file name stored in variable x.
 #Transfer the content store in variable y into it.
-echo $y >> $x 2$texty_err
+echo $y >> $x
 
 echo -e "\n"
 #Display a message to show that the operation is successful.
