@@ -1,7 +1,0 @@
-#!/bin/bash
-read -p "Enter file name: " x
-echo -e '\n'
-read -p "Enter file content: " y 
-echo -e '\n'
-echo $y >> $x
-echo -e 'Your file is created!\nWelcome to "Doing hard things community!!"'
